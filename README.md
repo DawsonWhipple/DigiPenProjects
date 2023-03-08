@@ -8,3 +8,6 @@ It should also be noted that these projects were created without the use of any 
 The following is a list of all projects in this repository:
 - Geometry Wars insipred wave based top down shooter (DigiPenFinalproject.zip)
 - Survival 2D shooter, made for a game jam in the course (DigiPenGameJam1.zip)
+- Yes/No Sort the Court style game, prompts user and gives a positive or negative outcome based on their choices (YesNoGame.zip)
+- Mario Galaxy insipred gravity based exploraqtion game. Planets have their own gravity with a randomly generated level order (DigiPenGameJam2.zip)
+- Console based text adventure game insipred by games such as Monkey island. Includes enemies, weapons, combat, and random level generation (DigiPenTextAdventure.zip)
