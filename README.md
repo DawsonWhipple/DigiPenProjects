@@ -13,3 +13,4 @@ The following is a list of all projects in this repository:
 - A console based text adventure game inspired by games such as Zork. This game accepts commands from the user and allows for free exploration through the world. (DigiPenTextAdventure.zip)
 - A console based interpretation of the board game Zombie Dice. This is one of the first ever projects I worked on and is somewhat rudimentary but at the time I was very pleased with it. (DigiPenZombiDice.zip)
 - A top down battle game inspired by games such as the original Legend of Zelda. This game was also for a game jam (DigiPenTopDownGame.zip)
+- Another early project, the calender assignment formats data in arrays and displays it to console, also formatted. accounts for leap years etc. (DigiPenCalender.zip)
