@@ -10,4 +10,5 @@ The following is a list of all projects in this repository:
 - Survival 2D shooter, made for a game jam in the course (DigiPenGameJam1.zip)
 - Yes/No Sort the Court style game, prompts user and gives a positive or negative outcome based on their choices (YesNoGame.zip)
 - Mario Galaxy insipred gravity based exploraqtion game. Planets have their own gravity with a randomly generated level order (DigiPenGameJam2.zip)
-- Console based text adventure game insipred by games such as Monkey island. Includes enemies, weapons, combat, and random level generation (DigiPenTextAdventure.zip)
+- A console based text adventure game inspired by games such as Zork. This game accepts commands from the user and allows for free exploration through the world. (DigiPenTextAdventure.zip)
+- A console based interpretation of the board game Zombie Dice. This is one of the first ever projects I worked on and is somewhat rudimentary but at the time I was very pleased with it. (DigiPenZombiDice.zip)
