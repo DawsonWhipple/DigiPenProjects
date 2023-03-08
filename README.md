@@ -12,3 +12,4 @@ The following is a list of all projects in this repository:
 - Mario Galaxy insipred gravity based exploraqtion game. Planets have their own gravity with a randomly generated level order (DigiPenGameJam2.zip)
 - A console based text adventure game inspired by games such as Zork. This game accepts commands from the user and allows for free exploration through the world. (DigiPenTextAdventure.zip)
 - A console based interpretation of the board game Zombie Dice. This is one of the first ever projects I worked on and is somewhat rudimentary but at the time I was very pleased with it. (DigiPenZombiDice.zip)
+- A top down battle game inspired by games such as the original Legend of Zelda. This game was also for a game jam (DigiPenTopDownGame.zip)
